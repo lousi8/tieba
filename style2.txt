@@ -1,0 +1,21 @@
+﻿#com_userbar{display:none} /* 用户菜单*/
+#head{display:none} /* 百度搜索条 */
+#pb_adbanner{display:none} /* 百度搜索条 */
+.nav_wrap{display:none}      /* 看帖 图片 精品 群组+ */
+.top_content{display:none}  /* 指引+*/
+.card_banner.card_banner_link{display:none} /* 贴吧背景图+*/
+.card_top_right{display:none} /* 签到*/
+a.j_click_stats{display:none}/* 商业推广 */
+.right_section.right_bright{display:none} /* 右边栏 */
+.pb_footer{display:none} /* 底部发回复 */
+span.core_title_btns.pull-right{display:none} /* 只看楼主 收藏 回复 */
+div.share_btn_wrapper{display:none} /* 送礼物 */
+span.j_jb_ele{display:none} /* 举报 */
+.thread_recommend.thread-recommend{display:none} /* 热门推荐 */
+ul.tbui_aside_float_bar.tbui_afb_compact{display:none}/* 浮动分享栏 */
+a.p_reply.p_reply_first{display:none} /* 回复顶楼 */
+/* .p_reply{display:none} 回复以下楼层 */
+img.close_btn.j_click_close{display:none}  /* 浮动小广告 */
+.global_notice_wrap{display:none}
+.firework-wrap{display:none}
+.firework-wrap{display:none}

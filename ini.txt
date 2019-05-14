@@ -1,0 +1,7 @@
+﻿name=[]
+id=[]
+id1=[]
+id2=[]
+filter=[盖楼]
+path=[C:\novel\]
+proxy=[]

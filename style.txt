@@ -1,0 +1,13 @@
+<style type="text/css">
+.div#userbar.userbar{display:none}
+#com_userbar{display:none}
+#global_notice_wrap{display:none}
+.nav_wrap{display:none}      /* 看帖 图片 精品 群组+ */
+.top_content{display:none}  /* 指引+*/
+.card_banner{display:none}
+.card_top_right{display:none} /* 签名*/
+ul.tbui_aside_float_bar.tbui_afb_compact{display:none}
+#head{display:none} /* 百度搜索条 */
+div#aside.aside{display:none} /* 右边栏 */
+.foot{display:none} /* 底部发新帖 */
+</style>
